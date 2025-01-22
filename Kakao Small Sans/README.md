@@ -25,8 +25,8 @@ Kakao Small Sans is designed with generous letter spacing to ensure readability 
 Additionally, it features widened counters and specially crafted shapes to enhance clarity in areas where strokes overlap.
 
 ## License
-This software is licensed under the [OFL-1.1 License](./LICENSE).
+This software is licensed under the [OFL-1.1 License](https://scripts.sil.org/OFL).
 
-Copyright 2024 Kakao Corp. [http://www.kakaocorp.com](http://www.kakaocorp.com/](http://www.kakaocorp.com)
+Copyright 2024 Kakao Corp. [http://www.kakaocorp.com](http://www.kakaocorp.com/)
 
-See [OFL.txt](./ofl.txt) for details.
+See [OFL.txt](OFL.txt) for details.
