@@ -17,3 +17,13 @@ For more details, please refer to the links below.
 ---
 
 [Kakao Big Sans](./KakaoBigSans) / [Kakao Small Sans](./KakaoSmallSans) 
+
+---
+
+## License
+
+This software is licensed under the OFL-1.1 License.
+
+Copyright 2024 Kakao Corp. http://www.kakaocorp.com
+
+See OFL.txt for details.
