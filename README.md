@@ -1,6 +1,6 @@
 카카오는 디지털 환경의 특성을 반영한 두 가지 서체를 오픈소스 라이선스로 배포합니다.
 
-Kakao releases two open-source fonts designed to reflect the characteristics of the digital environment.
+Kakao releases two Open License Font(OFL) designed to reflect the characteristics of the digital environment.
 
 - 카카오 큰글씨는 단단하고 안정적인 조형을 갖춘 서체로, 제목과 본문에서 명확한 정보 전달에 적합하도록 설계되었습니다.
 
