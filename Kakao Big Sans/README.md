@@ -25,8 +25,8 @@ Kakao Big Sans features a tightly packed modular structure, delivering a stable 
 It is well-suited for use in both titles and body text, making it ideal for clear communication of information and messages.
 
 ## License
-This software is licensed under the [OFL-1.1 License](./LICENSE).
+This software is licensed under the [OFL-1.1 License](https://scripts.sil.org/OFL)).
 
 Copyright 2024 Kakao Corp. [http://www.kakaocorp.com](http://www.kakaocorp.com/](http://www.kakaocorp.com)
 
-See [OFL.txt](/ofl.txt) for details.
+See [OFL.txt](ofl.txt) for details.
