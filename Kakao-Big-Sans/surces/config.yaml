@@ -1,0 +1,6 @@
+sources:
+  - sources/KakaoBigSans-Regular.glyphs
+  - sources/KakaoBigSans-Bold.glyphs
+  - sources/KakaoBigSans-ExtraBold.glyphs
+familyName: "Kakao Big Sans"
+buildOTF: false
