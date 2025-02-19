@@ -1,33 +1,33 @@
-name: "Kakao Small Sans"
+name: "Kakao Big Sans"
 designer: "FONTRIX, Park Young-rak, Lee Sang-min, Kim Jung-jin, Min Bon, Park Min-gyu"
 license: "OFL"
 category: "SANS_SERIF"
 date_added: "2025-01-24"
 fonts {
-  name: "Kakao Small Sans"
-  style: "normal"
-  weight: 300
-  filename: "KakaoSmallSans-Light.ttf"
-  post_script_name: "KakaoSmallSans-Light"
-  full_name: "Kakao Small Sans Light"
-  copyright: "Copyright (c) 2021 Kakao Corp. All rights reserved. Font designed by FONTRIX Inc. & Min Bon & Choi Min-gyu"
-}
-fonts {
-  name: "Kakao Small Sans"
+  name: "Kakao Big Sans"
   style: "normal"
   weight: 400
-  filename: "KakaoSmallSans-Regular.ttf"
-  post_script_name: "KakaoSmallSans-Regular"
-  full_name: "Kakao Small Sans Regular"
+  filename: "KakaoBigSans-Regular.ttf"
+  post_script_name: "KakaoBigSans-Regular"
+  full_name: "Kakao Big Sans Regular"
   copyright: "Copyright (c) 2021 Kakao Corp. All rights reserved. Font designed by FONTRIX Inc. & Min Bon & Choi Min-gyu"
 }
 fonts {
-  name: "Kakao Small Sans"
+  name: "Kakao Big Sans"
   style: "Bold"
   weight: 700
-  filename: "KakaoSmallSans-Bold.ttf"
-  post_script_name: "KakaoSmallSans-Bold"
-  full_name: "Kakao Small Sans Bold"
+  filename: "KakaoBigSans-Bold.ttf"
+  post_script_name: "KakaoBigSans-Bold"
+  full_name: "Kakao Big Sans Bold"
+  copyright: "Copyright (c) 2021 Kakao Corp. All rights reserved. Font designed by FONTRIX Inc. & Min Bon & Choi Min-gyu"
+}
+fonts {
+  name: "Kakao Big Sans"
+  style: "normal"
+  weight: 800
+  filename: "KakaoBigSans-ExtraBold.ttf"
+  post_script_name: "KakaoBigSans-ExtraBold"
+  full_name: "Kakao Big Sans ExtraBold"
   copyright: "Copyright (c) 2021 Kakao Corp. All rights reserved. Font designed by FONTRIX Inc. & Min Bon & Choi Min-gyu"
 }
 subsets: "korean"
@@ -39,19 +39,19 @@ source {
   repository_url: "https://github.com/kakao/kakao-font"
   branch: "main"
   files {
-    source_file: "Kakao-Small-Sans/OFL.txt"
+    source_file: "Kakao-Big-Sans/OFL.txt"
     dest_file: "OFL.txt"
   }
   files {
-    source_file: "Kakao-Small-Sans/fonts/KakaoSmallSans-Light.ttf"
-    dest_file: "KakaoSmallSans-Light.ttf"
+    source_file: "Kakao-Big-Sans/fonts/KakaoBigSans-Regular.ttf"
+    dest_file: "KakaoBigSans-Regular.ttf"
   }
   files {
-    source_file: "Kakao-Small-Sans/fonts/KakaoSmallSans-Regular.ttf"
-    dest_file: "KakaoSmallSans-Regular.ttf"
+    source_file: "Kakao-Big-Sans/fonts/KakaoBigSans-Bold.ttf"
+    dest_file: "KakaoBigSans-Bold.ttf"
   }
   files {
-    source_file: "Kakao-Small-Sans/fonts/KakaoSmallSans-Bold.ttf"
-    dest_file: "KakaoSmallSans-Bold.ttf"
+    source_file: "Kakao-Big-Sans/fonts/KakaoBigSans-ExtraBold.ttf"
+    dest_file: "KakaoBigSans-ExtraBold.ttf"
   }
 }
