@@ -1,10 +1,12 @@
 # 카카오 작은글씨 / Kakao Small Sans
+(⚠️ updated on Jul 2025 to v2.002)
+
 카카오 작은글씨는 정보 전달과 감정 표현을 모두 세심히 고려하여, 디지털 시대의 새로운 문화를 반영한 글꼴입니다.
 
 Kakao Small Sans thoughtfully considers both information delivery and emotional expression, reflecting the new culture of the digital era.
 
 
-## Font Specs
+## Font 
 
 •	Light / Regular / Bold 
 
