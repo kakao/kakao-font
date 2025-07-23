@@ -16,7 +16,7 @@ For more details, please refer to the links below.
 
 ---
 
-[Kakao Big Sans](./KakaoBigSans) / [Kakao Small Sans](./KakaoSmallSans) 
+[Kakao Big Sans](./Kakao-Big-Sans) / [Kakao Small Sans](./Kakao-Small-Sans) 
 
 ---
 
